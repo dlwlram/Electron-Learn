@@ -1,0 +1,22 @@
+{
+  "name": "sucrose",
+  "version": "1.0.0",
+  "description": "Sucrose_First_Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlwlram/Electron-Learn.git"
+  },
+  "author": "Sucrose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlwlram/Electron-Learn/issues"
+  },
+  "homepage": "https://github.com/dlwlram/Electron-Learn#readme",
+  "devDependencies": {
+    "electron": "^22.0.2"
+  }
+}
